@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title><![CDATA[AI트렌드]]></title>
-  <link>https://sf-t3-1779642675702-206.vercel.app</link>
+  <link>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206</link>
   <description><![CDATA[AI트렌드 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
   <language>ko</language>
-  <pubDate>Wed, 10 Jun 2026 17:53:46 GMT</pubDate>
-  <lastBuildDate>Wed, 10 Jun 2026 17:53:46 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-206.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  <pubDate>Mon, 15 Jun 2026 06:43:10 GMT</pubDate>
+  <lastBuildDate>Mon, 15 Jun 2026 06:43:10 GMT</lastBuildDate>
+  <atom:link href="https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
       <title><![CDATA[창작한 제목]]></title>
-      <link>https://sf-t3-1779642675702-206.vercel.app/posts/field_note-002-xkyrtd.html</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-206.vercel.app/posts/field_note-002-xkyrtd.html</guid>
+      <link>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/field_note-002-xkyrtd.html</link>
+      <guid isPermaLink="true">https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/field_note-002-xkyrtd.html</guid>
       <description><![CDATA["쿠버네티스 1.29 CSI 드라이버 버그: 디스크 I/O 증가와 볼륨 마운트 경합" 아, 진짜... SRE 엔지니어들께 들려주고 싶은 이야기. ## 관찰 기록 ### 현장 단서#### 실패 원인:버전 1.29에서 Redis CSI 드라이버와의 상호 작용으로 발생한 볼]]></description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/guide-001-bl124o.html</link>
+      <guid isPermaLink="true">https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/guide-001-bl124o.html</guid>
+      <description><![CDATA[## Cloudflare Cache Reserve의 47분 지연 무효화 현상에 대한 실무指南 아, 진짜... AWS와 클라우드 비용 절감 키워드는 물론 EC2/S3 설명도 금지입니다. 그럼 이 글을 어떻게 쓸까요? "DevOps 엔지니어"의 시점에서 500만원 청구 트]]></description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[화곡 셔츠룸 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/qa-002-bl124o.html</link>
+      <guid isPermaLink="true">https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/qa-002-bl124o.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목"온콜 엔지니어의 깊은 저녁夜： Lightsail 인스턴스 CPU 크레딧 소진과 울린 페이저" #### [POST DNA 4023f91e] 관점: 초보자와 숙련자의 선택 기준이 갈리는 지점을 대조구조: field-log — 관찰 시각, 단서, ]]></description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA[화곡 셔츠룸 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
-      <link>https://sf-t3-1779642675702-206.vercel.app/posts/review-001-xkyrtd.html</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-206.vercel.app/posts/review-001-xkyrtd.html</guid>
+      <link>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/review-001-xkyrtd.html</link>
+      <guid isPermaLink="true">https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-206/posts/review-001-xkyrtd.html</guid>
       <description><![CDATA[### 포스트 메타정보포스트 기획 테마: 화곡 셔츠룸 솔직 후기 — 3개월 써본 사람의 리뷰 #### 제목: 창작한 제목"IPS 패널 로트 불량, 무상교체 조건 이해하기 — 오버클럭 커뮤니티 운영자 입니다" 아, 진짜... 특정 IPS 패널 로트에서만 발생하는 백라이트]]></description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
